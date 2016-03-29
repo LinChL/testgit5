@@ -1,4 +1,4 @@
-﻿生成启动时间为 3/29/2016 2:07:22 PM。
+﻿生成启动时间为 3/29/2016 2:12:31 PM。
      1>项目“E:\study\testgit5\hello world\hello world.vcxproj”在节点 2 上(build 个目标)。
      1>InitializeBuildStatus:
          正在创建“Debug\hello world.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
@@ -18,4 +18,4 @@
 
 生成成功。
 
-已用时间 00:00:00.62
+已用时间 00:00:00.60
